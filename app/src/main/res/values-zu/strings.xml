@@ -1,0 +1,11 @@
+<resources>
+    <string name="home">Ikhaya</string>
+    <string name="discover">Thola</string>
+    <string name="favourites">Okuthandayo</string>
+    <string name="recipes">Izindlela zokupheka</string>
+    <string name="events">Imicimbi</string>
+    <string name="profile">Iphrofayela</string>
+    <string name="settings">Izilungiselelo</string>
+    <string name="account_settings">Izilungiselelo Ze-akhawunti</string>
+    <string name="preferred_language">Ulimi Oluthandayo</string>
+</resources>

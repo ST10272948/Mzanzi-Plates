@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570841059815",
+    "project_id": "mzansi-plates-proj",
+    "storage_bucket": "mzansi-plates-proj.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570841059815:android:957b7050207cd1449aad42",
+        "android_client_info": {
+          "package_name": "com.mzansiplatess.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570841059815-26gqib73o9213dch8bt3kutur7ph9h0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCQ9fFCPWo05--lx8BQFYjfJpA6WRW74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570841059815-26gqib73o9213dch8bt3kutur7ph9h0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
