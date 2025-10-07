@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="home">Legae</string>
+    <string name="discover">Fumana</string>
+    <string name="favourites">Dikgetho</string>
+    <string name="recipes">Dijo</string>
+    <string name="events">Diketsahalo</string>
+    <string name="profile">Profayela</string>
+    <string name="settings">Dikgatiso</string>
+    <string name="account_settings">Dikgatiso tsa Akaunti</string>
+    <string name="preferred_language">Puo e e Ratwang</string>
+</resources>

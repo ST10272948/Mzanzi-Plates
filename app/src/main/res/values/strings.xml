@@ -1,0 +1,22 @@
+<resources>
+    <string name="default_web_client_id">570841059815-26gqib73o9213dch8bt3kutur7ph9h0a.apps.googleusercontent.com </string>
+
+    <string name="app_name">Mzansi Plates</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="discover">Discover</string>
+    <string name="favourites">Favourites</string>
+    <string name="recipes">Recipes</string>
+    <string name="events">Events</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="help_support">Help &amp; Support</string>
+    <string name="preferred_language">Preferred Language</string>
+    <string name="current_selection">Current selection: %1$s</string>
+</resources>
+
+
+
+
